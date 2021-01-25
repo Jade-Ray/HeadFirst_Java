@@ -1,0 +1,45 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Dog",
+            "request": "launch",
+            "mainClass": "Dog"
+        },
+        {
+            "type": "java",
+            "name": "Launch DotcomBust",
+            "request": "launch",
+            "mainClass": "DotcomBust"
+        },
+        {
+            "type": "java",
+            "name": "Launch MiniMusicCmdLine",
+            "request": "launch",
+            "mainClass": "MiniMusicCmdLine",
+            "args": ["40", "70"]
+        },
+        {
+            "type": "java",
+            "name": "Launch SimpleDotComGame",
+            "request": "launch",
+            "mainClass": "SimpleDotComGame"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "com.mycompany.helloworld.App"
+        }
+    ]
+}
