@@ -6,6 +6,36 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SimpleAnimation",
+            "request": "launch",
+            "mainClass": "SimpleAnimation"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoButtons",
+            "request": "launch",
+            "mainClass": "TwoButtons"
+        },
+        {
+            "type": "java",
+            "name": "Launch SimpleGui3C",
+            "request": "launch",
+            "mainClass": "SimpleGui3C"
+        },
+        {
+            "type": "java",
+            "name": "Launch SimpleGui1B",
+            "request": "launch",
+            "mainClass": "SimpleGui1B"
+        },
+        {
+            "type": "java",
+            "name": "Launch SimpleGUi1",
+            "request": "launch",
+            "mainClass": "SimpleGUi1"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -27,7 +57,10 @@
             "name": "Launch MiniMusicCmdLine",
             "request": "launch",
             "mainClass": "MiniMusicCmdLine",
-            "args": ["40", "70"]
+            "args": [
+                "40",
+                "70"
+            ]
         },
         {
             "type": "java",
