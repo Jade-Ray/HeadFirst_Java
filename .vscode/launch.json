@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MusicServer",
+            "request": "launch",
+            "mainClass": "MusicServer"
+        },
+        {
+            "type": "java",
+            "name": "Launch BeatBoxFinal_liu",
+            "request": "launch",
+            "mainClass": "BeatBoxFinal",
+            "args": [
+                "Liu"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "Launch BeatBoxFinal",
+            "request": "launch",
+            "mainClass": "BeatBoxFinal",
+            "args": [
+                "Jade"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "Launch VerySimpleChatServer",
+            "request": "launch",
+            "mainClass": "VerySimpleChatServer"
+        },
+        {
+            "type": "java",
+            "name": "Launch SimpleChatClient",
+            "request": "launch",
+            "mainClass": "SimpleChatClient"
+        },
+        {
+            "type": "java",
+            "name": "Launch DailyAdviceClient",
+            "request": "launch",
+            "mainClass": "DailyAdviceClient"
+        },
+        {
+            "type": "java",
             "name": "Launch SimpleAnimation",
             "request": "launch",
             "mainClass": "SimpleAnimation"
