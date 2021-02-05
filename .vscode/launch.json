@@ -6,6 +6,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ServiceBrowser",
+            "request": "launch",
+            "mainClass": "ServiceBrowser"
+        },
+        {
+            "type": "java",
+            "name": "Launch ServiceServerImpl",
+            "request": "launch",
+            "mainClass": "ServiceServerImpl"
+        },
+        {
+            "type": "java",
             "name": "Launch MusicServer",
             "request": "launch",
             "mainClass": "MusicServer"
